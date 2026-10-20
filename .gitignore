@@ -1,0 +1,8 @@
+# 개인 메모 데이터
+notes.json
+notes.json.tmp
+notes.json.broken
+error.log
+
+__pycache__/
+*.pyc
